@@ -1,0 +1,10 @@
+Componentes basicos:
+    View - div
+    image
+    Scrollview - scroll a tela por padrao
+    Text - p
+    text input - inserir dados
+    StyleSheet
+componentes de interfacede usuario:
+    Button 
+    Switch
